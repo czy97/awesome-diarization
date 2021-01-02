@@ -57,6 +57,9 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 * [ODESSA at Albayzin Speaker Diarization Challenge 2018](https://www.isca-speech.org/archive/IberSPEECH_2018/pdfs/IberS18_AE-5_Patino.pdf), 2018
 * [Joint Discriminative Embedding Learning, Speech Activity and Overlap Detection for the DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/2304.pdf), 2018
 
+### PhD Thesis
+* [Speaker Diarization: "Who Spoke When"](https://eprints.qut.edu.au/59624/1/David_Wang_Thesis.pdf) by [David I-Chung Wang](https://www.linkedin.com/in/david-wang-97758a65/?originalSubdomain=au)
+
 ### Other
 
 #### 2020
@@ -81,12 +84,14 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 
 #### 2018
 
+* [Diarization is Hard: Some Experiences and Lessons Learned for the JHU Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1893.pdf)
 * [Neural speech turn segmentation and affinity propagation for speaker diarization](https://hal.archives-ouvertes.fr/hal-01912236/)
 * [Multimodal Speaker Segmentation and Diarization using Lexical and Acoustic Cues via Sequence to Sequence Neural Networks](https://arxiv.org/abs/1805.10731)
 * [Joint Speaker Diarization and Recognition Using Convolutional and Recurrent Neural Networks](https://ieeexplore.ieee.org/abstract/document/8461666)
 
 #### 2017
 
+* [Speaker Diarization: A Perspective on Challenges and Opportunities from Theory to Practice](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7953098)
 * [Speaker Diarization with LSTM](https://arxiv.org/abs/1710.10468)
 * [Speaker diarization using deep neural network embeddings](http://danielpovey.com/files/2017_icassp_diarization_embeddings.pdf)
 * [Speaker diarization using convolutional neural network for statistics accumulation refinement](https://pdfs.semanticscholar.org/35c4/0fde977932d8a3cd24f5a1724c9dbca8b38d.pdf)
@@ -96,6 +101,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 
 #### 2016
 
+* [An Overview of Speaker Diarization: Approaches, Resources and Challenges](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7919005)
 * [A Speaker Diarization System for Studying Peer-Led Team Learning Groups](https://arxiv.org/pdf/1606.07136.pdf)
 
 #### 2015
@@ -109,16 +115,20 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 * [Artificial neural network features for speaker diarization](https://ieeexplore.ieee.org/abstract/document/7078608)
 
 #### 2013
+
+* [Exploring Methods of Improving Speaker Accuracy for Speaker Diarization](https://www.icsi.berkeley.edu/pubs/speech/exploringmethods13.pdf)
 * [Unsupervised methods for speaker diarization: An integrated and iterative approach](http://groups.csail.mit.edu/sls/publications/2013/Shum_IEEE_Oct-2013.pdf)
+
+#### 2012
+
+* [A Review on Speaker Diarization Systems and Approaches](https://sci-hub.do/https://doi.org/10.1016/j.specom.2012.05.002)
+* [Speaker Diarization: A Review of Recent Research](https://www1.icsi.berkeley.edu/~fractor/papers/friedland_146.pdf)
 
 #### 2011
 
+* [Speaker Diarization: Its Developments, Applications, And Challenges](http://eprints.undip.ac.id/36153/1/Hernawan_Sulity.pdf)
 * [PLDA-based Clustering for Speaker Diarization of Broadcast Streams](https://pdfs.semanticscholar.org/0175/a752c5c72cadc7c0b899fd15f2f6b93c3335.pdf)
 * [Speaker diarization of meetings based on speaker role n-gram models](https://publications.idiap.ch/downloads/papers/2011/Valente_ICASSP2011_2011.pdf)
-
-#### 2010
-
-* [Speaker diarization: A review of recent research](http://www.eurecom.fr/fr/publication/3152/download/mm-publi-3152.pdf)
 
 #### 2009
 
@@ -278,11 +288,18 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 
 ### Tech blogs
 
+* [Speaker Diarization](https://wiki.aalto.fi/display/ITSP/Speaker+Diarization) by [Aalto University Wiki]
 * [Literature Review For Speaker Change Detection](https://hedonistrh.github.io/2018-07-09-Literature-Review-for-Speaker-Change-Detection/)
   by [Halil Erdoğan](https://github.com/hedonistrh)
 * [Speaker Diarization: Separation of Multiple Speakers in an Audio File](https://medium.com/datadriveninvestor/speaker-diarization-22121f1264b1) by [Jaspreet Singh](https://medium.com/@jaspreetuseducation)
 * [Speaker Diarization with Kaldi](https://towardsdatascience.com/speaker-diarization-with-kaldi-e30301b05cc8) by [Yoav Ramon](https://towardsdatascience.com/@yoavramon)
 * [Who spoke when! How to Build your own Speaker Diarization Module](https://medium.com/saarthi-ai/who-spoke-when-build-your-own-speaker-diarization-module-from-scratch-e7d725ee279) by Rahul Saxena
+
+### Talks & Slides
+
+* [End-to-end Deep Neural Network based Speaker and Language Recognition](https://sites.duke.edu/dkusmiip/files/2019/09/IS19_Survey_SRELRE_MingLi_v2.pdf) by [Ming Li](https://scholars.duke.edu/person/MingLi) in Interspeech 2019
+* [Speaker Verification and Diarization](http://www.inf.ed.ac.uk/teaching/courses/asr/2019-20/asr17-speaker.pdf) by [Peter Bell](http://homepages.inf.ed.ac.uk/pbell1/)
+* [Introduction to Speaker Diarization](https://www1.icsi.berkeley.edu/eecs225d/spr12/slides/diarization.pdf) by [Gerald Friedland](https://www2.eecs.berkeley.edu/Faculty/Homepages/friedland.html)
 
 ### Video tutorials
 
