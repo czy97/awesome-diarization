@@ -64,7 +64,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 * [ODESSA at Albayzin Speaker Diarization Challenge 2018](https://www.isca-speech.org/archive/IberSPEECH_2018/pdfs/IberS18_AE-5_Patino.pdf), 2018
 * [Joint Discriminative Embedding Learning, Speech Activity and Overlap Detection for the DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/2304.pdf), 2018
 
-### PhD Thesis
+#### PhD Thesis
 * [Speaker Diarization: "Who Spoke When"](https://eprints.qut.edu.au/59624/1/David_Wang_Thesis.pdf) by [David I-Chung Wang](https://www.linkedin.com/in/david-wang-97758a65/?originalSubdomain=au)
 
 
