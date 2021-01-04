@@ -37,6 +37,13 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 
 ### Special topics
 
+#### Survey
+* [An Overview of Speaker Diarization: Approaches, Resources and Challenges](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7919005), 2016
+* [A Review on Speaker Diarization Systems and Approaches](https://sci-hub.do/https://doi.org/10.1016/j.specom.2012.05.002)
+* [Speaker Diarization: A Review of Recent Research](https://www1.icsi.berkeley.edu/~fractor/papers/friedland_146.pdf)
+* [Speaker Diarization: Its Developments, Applications, And Challenges](http://eprints.undip.ac.id/36153/1/Hernawan_Sulity.pdf)
+* [An Overview of Automatic Speaker Diarization Systems](https://alize.univ-avignon.fr/doc/publis/06_IEEE-TASP_Tranter.pdf)
+
 #### Supervisied diarization
 
 * [Supervised online diarization with sample mean loss for multi-domain data](https://arxiv.org/abs/1911.01266), 2019
@@ -60,7 +67,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 ### PhD Thesis
 * [Speaker Diarization: "Who Spoke When"](https://eprints.qut.edu.au/59624/1/David_Wang_Thesis.pdf) by [David I-Chung Wang](https://www.linkedin.com/in/david-wang-97758a65/?originalSubdomain=au)
 
-### Other
+### Paper list by year
 
 #### 2020
 
@@ -140,8 +147,8 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 
 #### 2006
 
-* [An overview of automatic speaker diarization systems](https://alize.univ-avignon.fr/doc/publis/06_IEEE-TASP_Tranter.pdf)
-* [A spectral clustering approach to speaker diarization](http://www.ifp.illinois.edu/~hning2/papers/Ning_spectral.pdf)
+* [An Overview of Automatic Speaker Diarization Systems](https://alize.univ-avignon.fr/doc/publis/06_IEEE-TASP_Tranter.pdf)
+* [A Spectral Clustering Approach to Speaker Diarization](http://www.ifp.illinois.edu/~hning2/papers/Ning_spectral.pdf)
 
 ## Software
 
