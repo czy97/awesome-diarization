@@ -55,10 +55,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [Says who? Deep learning models for joint speech recognition, segmentation and diarization](https://ieeexplore.ieee.org/abstract/document/8462375), 2018
 
 #### Challenges
-* [Diarization is Hard: Some Experiences and Lessons Learned for the JHU
-Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1893.pdf), 2018
 * [ODESSA at Albayzin Speaker Diarization Challenge 2018](https://www.isca-speech.org/archive/IberSPEECH_2018/pdfs/IberS18_AE-5_Patino.pdf), 2018
-* [Joint Discriminative Embedding Learning, Speech Activity and Overlap Detection for the DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/2304.pdf), 2018
 
 #### PhD Thesis
 * [Speaker Diarization: "Who Spoke When"](https://eprints.qut.edu.au/59624/1/David_Wang_Thesis.pdf) by [David I-Chung Wang](https://www.linkedin.com/in/david-wang-97758a65/?originalSubdomain=au)
@@ -260,8 +257,14 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 #### Official website
 * [DIHARD 2018](https://dihardchallenge.github.io/dihard1/index.html)
 
-### Related papers
-
+#### Related papers
+* [Diarization is Hard: Some Experiences and Lessons Learned for the JHU Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1893.pdf), Interspeech 2018
+* [Joint Discriminative Embedding Learning, Speech Activity and Overlap Detection for the DIHARD Speaker Diarization Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/2304.pdf), Interspeech 2018
+* [ZCU-NTIS Speaker Diarization System for the DIHARD 2018 Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1252.pdf), Interspeech 2018
+* [Speaker Diarization with Enhancing Speech for the First DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1742.pdf), Interspeech 2018
+* [BUT system for DIHARD Speech Diarization Challenge 2018](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1749.pdf), Interspeech 2018
+* [Estimation of the Number of Speakers with Variational Bayesian PLDA in the DIHARD Diarization Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1841.pdf), Interspeech 2018
+* [The EURECOM submission to the first DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/2172.pdf), Interspeech 2018
 
 ## Leaderboards
 
