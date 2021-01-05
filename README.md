@@ -257,7 +257,16 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 #### Official website
 * [DIHARD 2018](https://dihardchallenge.github.io/dihard1/index.html)
 
-#### Related papers
+#### Description
+* [First DIHARD Challenge Evaluation Plan](https://catalog.ldc.upenn.edu/docs/LDC2019S09/first_dihard_eval_plan_v1.3.pdf)
+
+#### Datasets
+* [First DIHARD Challenge Development - Eight Sources](https://catalog.ldc.upenn.edu/LDC2019S09)
+* [First DIHARD Challenge Development - SEEDLingS](https://catalog.ldc.upenn.edu/LDC2019S10)
+* [First DIHARD Challenge Evaluation - Nine Sources](https://catalog.ldc.upenn.edu/LDC2019S12)
+* [First DIHARD Challenge Evaluation - SEEDLingS](https://catalog.ldc.upenn.edu/LDC2019S13)
+
+#### Published papers
 * [Diarization is Hard: Some Experiences and Lessons Learned for the JHU Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1893.pdf), Interspeech 2018
 * [Joint Discriminative Embedding Learning, Speech Activity and Overlap Detection for the DIHARD Speaker Diarization Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/2304.pdf), Interspeech 2018
 * [ZCU-NTIS Speaker Diarization System for the DIHARD 2018 Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1252.pdf), Interspeech 2018
