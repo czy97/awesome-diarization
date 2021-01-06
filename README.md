@@ -257,7 +257,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 #### Official website
 * [DIHARD 2018](https://dihardchallenge.github.io/dihard1/index.html)
 
-#### Description
+#### Evaluation Plan
 * [First DIHARD Challenge Evaluation Plan](https://catalog.ldc.upenn.edu/docs/LDC2019S09/first_dihard_eval_plan_v1.3.pdf)
 
 #### Datasets
@@ -274,6 +274,31 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [BUT system for DIHARD Speech Diarization Challenge 2018](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1749.pdf), Interspeech 2018
 * [Estimation of the Number of Speakers with Variational Bayesian PLDA in the DIHARD Diarization Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1841.pdf), Interspeech 2018
 * [The EURECOM submission to the first DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/2172.pdf), Interspeech 2018
+
+
+### DIHARD II
+#### Official website
+* [DIHARD 2019](https://dihardchallenge.github.io/dihard2/index.html)
+
+#### Evaluation Plan
+* [Second DIHARD Challenge Evaluation Plan](https://dihardchallenge.github.io/dihard2/docs/second_dihard_eval_plan_v1.2.pdf)
+
+#### Datasets
+* DIHARD II development set (LDC2019E31)
+* DIHARD II evaluation set (LDC2019E32)
+* CHiME-5 training, development, and evaluation sets
+
+#### Baseline systems
+* [DIHARD II baseline systems](https://github.com/iiscleap/DIHARD_2019_baseline_alltracks)
+
+#### Published papers
+* [The Second DIHARD Diarization Challenge: Dataset, task, and baselines](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1268.pdf), Interspeech 2019
+* [LEAP Diarization System for the Second DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2716.pdf), Interspeech 2019
+* [ViVoLAB Speaker Diarization System for the DIHARD 2019 Challenge](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2462.pdf), Interspeech 2019
+* [UWB-NTIS Speaker Diarization System for the DIHARD II 2019 Challenge](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1385.pdf), Interspeech 2019
+* [The Second DIHARD challenge: System Description for USC-SAIL Team](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1903.pdf), Interspeech 2019
+* [Speaker Diarization with Deep Speaker Embeddings for DIHARD Challenge II](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2757.pdf), Interspeech 2019
+
 
 ## Leaderboards
 
