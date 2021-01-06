@@ -303,7 +303,15 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 ## Leaderboards
 
 * [StateOfTheArt.ai](https://www.stateoftheart.ai/?area=Sound&task=Speaker%20Diarization)
-* [DIHARD I](https://dihardchallenge.github.io/dihard1/results.html)
+
+### DIHARD I
+* [Track1 & Track2](https://dihardchallenge.github.io/dihard1/results.html)
+
+### DIHARD II
+* [Track1](http://dihard.ldc.upenn.edu/competitions/73#results)
+* [Track2](http://dihard.ldc.upenn.edu/competitions/74#results)
+* [Track3](http://dihard.ldc.upenn.edu/competitions/75#results)
+* [Track4](http://dihard.ldc.upenn.edu/competitions/76#results)
 
 
 ## Other learning materials
