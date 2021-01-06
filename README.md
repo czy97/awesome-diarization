@@ -326,6 +326,9 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 #### Results
 * [Task1_CORE, Task1_FULL, Task2_CORE & Task2_FULL](https://sat.nist.gov/dihard3#tab_leaderboard)
 
+#### Workshop
+* [The Third DIHARD Speech Diarization Challenge Workshop](https://dihardchallenge.github.io/dihard3workshop/)
+
 #### Published papers
 * [The Third DIHARD Diarization Challenge](https://arxiv.org/pdf/2012.01477.pdf), arXiv 2020
 
