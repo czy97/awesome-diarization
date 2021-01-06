@@ -309,6 +309,27 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [Speaker Diarization with Deep Speaker Embeddings for DIHARD Challenge II](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2757.pdf), Interspeech 2019
 
 
+### DIHARD III
+#### Official website
+* [The Third DIHARD Speech Diarization Challenge](https://dihardchallenge.github.io/dihard3/)
+
+#### Evaluation Plan
+* [Third DIHARD Challenge Evaluation Plan](https://dihardchallenge.github.io/dihard3/docs/third_dihard_eval_plan_v1.2.pdf)
+
+#### Datasets
+* DIHARD III development set (LDC2020E12)
+* DIHARD III evaluation set (LDC2020E13)
+
+#### Baseline systems
+* [DIHARD III baseline systems](https://github.com/dihardchallenge/dihard3_baseline)
+
+#### Results
+* [Task1_CORE, Task1_FULL, Task2_CORE & Task2_FULL](https://sat.nist.gov/dihard3#tab_leaderboard)
+
+#### Published papers
+* [The Third DIHARD Diarization Challenge](https://arxiv.org/pdf/2012.01477.pdf), arXiv 2020
+
+
 ## Leaderboards
 
 * [StateOfTheArt.ai](https://www.stateoftheart.ai/?area=Sound&task=Speaker%20Diarization)
@@ -321,6 +342,9 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [Track2](http://dihard.ldc.upenn.edu/competitions/74#results)
 * [Track3](http://dihard.ldc.upenn.edu/competitions/75#results)
 * [Track4](http://dihard.ldc.upenn.edu/competitions/76#results)
+
+### DIHARD III
+* [Task1_CORE, Task1_FULL, Task2_CORE & Task2_FULL](https://sat.nist.gov/dihard3#tab_leaderboard)
 
 
 ## Other learning materials
