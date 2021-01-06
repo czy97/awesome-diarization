@@ -266,6 +266,9 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [First DIHARD Challenge Evaluation - Nine Sources](https://catalog.ldc.upenn.edu/LDC2019S12)
 * [First DIHARD Challenge Evaluation - SEEDLingS](https://catalog.ldc.upenn.edu/LDC2019S13)
 
+#### Results
+* [Track1 & Track2](https://dihardchallenge.github.io/dihard1/results.html)
+
 #### Published papers
 * [Diarization is Hard: Some Experiences and Lessons Learned for the JHU Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1893.pdf), Interspeech 2018
 * [Joint Discriminative Embedding Learning, Speech Activity and Overlap Detection for the DIHARD Speaker Diarization Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/2304.pdf), Interspeech 2018
@@ -290,6 +293,12 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 
 #### Baseline systems
 * [DIHARD II baseline systems](https://github.com/iiscleap/DIHARD_2019_baseline_alltracks)
+
+#### Results
+* [Track1](http://dihard.ldc.upenn.edu/competitions/73#results)
+* [Track2](http://dihard.ldc.upenn.edu/competitions/74#results)
+* [Track3](http://dihard.ldc.upenn.edu/competitions/75#results)
+* [Track4](http://dihard.ldc.upenn.edu/competitions/76#results)
 
 #### Published papers
 * [The Second DIHARD Diarization Challenge: Dataset, task, and baselines](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1268.pdf), Interspeech 2019
