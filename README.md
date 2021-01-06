@@ -255,7 +255,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 ## Challenges
 ### DIHARD I
 #### Official website
-* [DIHARD 2018](https://dihardchallenge.github.io/dihard1/index.html)
+* [The First DIHARD Speech Diarization Challenge](https://dihardchallenge.github.io/dihard1/index.html)
 
 #### Evaluation Plan
 * [First DIHARD Challenge Evaluation Plan](https://catalog.ldc.upenn.edu/docs/LDC2019S09/first_dihard_eval_plan_v1.3.pdf)
@@ -278,7 +278,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 
 ### DIHARD II
 #### Official website
-* [DIHARD 2019](https://dihardchallenge.github.io/dihard2/index.html)
+* [The Second DIHARD Speech Diarization Challenge](https://dihardchallenge.github.io/dihard2/index.html)
 
 #### Evaluation Plan
 * [Second DIHARD Challenge Evaluation Plan](https://dihardchallenge.github.io/dihard2/docs/second_dihard_eval_plan_v1.2.pdf)
