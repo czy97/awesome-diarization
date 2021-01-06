@@ -278,7 +278,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 ## Leaderboards
 
 * [StateOfTheArt.ai](https://www.stateoftheart.ai/?area=Sound&task=Speaker%20Diarization)
-* [DIHARD 2018](https://coml.lscp.ens.fr/dihard/2018/results.php)
+* [DIHARD I](https://dihardchallenge.github.io/dihard1/results.html)
 
 
 ## Other learning materials
