@@ -371,7 +371,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 ### Video tutorials
 #### Overview
 * [【机器之心&博文视点】入门声纹技术｜第二讲：声纹分割聚类与其他应用](https://www.youtube.com/watch?v=HE9JW8yKYRk) by Quan Wang, 2020.10
-* [深蓝学院 | 基于深度学习的多说话人分割聚类](https://www.shenlanxueyuan.com/open/course/78) by [Chao Zhang](http://mi.eng.cam.ac.uk/~cz277/), 2020.10
+* [【深蓝学院】 | 基于深度学习的多说话人分割聚类](https://www.shenlanxueyuan.com/open/course/78) by [Chao Zhang](http://mi.eng.cam.ac.uk/~cz277/), 2020.10
 
 #### Conference presentation
 * [pyannote audio: neural building blocks for speaker diarization](https://www.youtube.com/watch?v=37R_R82lfwA) by Hervé Bredin, ICASSP 2020
