@@ -339,8 +339,8 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [MGB-1 Challenge](http://www.mgb-challenge.org/MGB-1.html)
 
 #### Published papers
-* [The MGB Challenge: Evaluating Multi-genre Broadcast Media Recognition](http://eprints.whiterose.ac.uk/101807/1/mgb-asru2015.pdf)
-* [Speaker Diarisation and Longitudinal Linking in Multi-genre Broadcast Data](http://mi.eng.cam.ac.uk/~cz277/doc/Conference-ASRU2015-DIARIZ.pdf)
+* [The MGB Challenge: Evaluating Multi-genre Broadcast Media Recognition](http://eprints.whiterose.ac.uk/101807/1/mgb-asru2015.pdf), ASRU 2015
+* [Speaker Diarisation and Longitudinal Linking in Multi-genre Broadcast Data](http://mi.eng.cam.ac.uk/~cz277/doc/Conference-ASRU2015-DIARIZ.pdf), ASRU 2015
 
 
 ## Leaderboards
