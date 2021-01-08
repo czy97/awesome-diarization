@@ -254,33 +254,31 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 
 
 ## Challenges
-### DIHARD I
+### DIHARD III, 2020
 #### Official website
-* [The First DIHARD Speech Diarization Challenge](https://dihardchallenge.github.io/dihard1/index.html)
+* [The Third DIHARD Speech Diarization Challenge](https://dihardchallenge.github.io/dihard3/)
 
 #### Evaluation Plan
-* [First DIHARD Challenge Evaluation Plan](https://catalog.ldc.upenn.edu/docs/LDC2019S09/first_dihard_eval_plan_v1.3.pdf)
+* [Third DIHARD Challenge Evaluation Plan](https://dihardchallenge.github.io/dihard3/docs/third_dihard_eval_plan_v1.2.pdf)
 
 #### Datasets
-* [First DIHARD Challenge Development - Eight Sources](https://catalog.ldc.upenn.edu/LDC2019S09)
-* [First DIHARD Challenge Development - SEEDLingS](https://catalog.ldc.upenn.edu/LDC2019S10)
-* [First DIHARD Challenge Evaluation - Nine Sources](https://catalog.ldc.upenn.edu/LDC2019S12)
-* [First DIHARD Challenge Evaluation - SEEDLingS](https://catalog.ldc.upenn.edu/LDC2019S13)
+* DIHARD III development set (LDC2020E12)
+* DIHARD III evaluation set (LDC2020E13)
+
+#### Baseline systems
+* [DIHARD III baseline systems](https://github.com/dihardchallenge/dihard3_baseline)
 
 #### Results
-* [Track1 & Track2](https://dihardchallenge.github.io/dihard1/results.html)
+* [Task1_CORE, Task1_FULL, Task2_CORE & Task2_FULL](https://sat.nist.gov/dihard3#tab_leaderboard)
+
+#### Workshop
+* [The Third DIHARD Speech Diarization Challenge Workshop](https://dihardchallenge.github.io/dihard3workshop/)
 
 #### Published papers
-* [Diarization is Hard: Some Experiences and Lessons Learned for the JHU Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1893.pdf), Interspeech 2018
-* [Joint Discriminative Embedding Learning, Speech Activity and Overlap Detection for the DIHARD Speaker Diarization Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/2304.pdf), Interspeech 2018
-* [ZCU-NTIS Speaker Diarization System for the DIHARD 2018 Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1252.pdf), Interspeech 2018
-* [Speaker Diarization with Enhancing Speech for the First DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1742.pdf), Interspeech 2018
-* [BUT system for DIHARD Speech Diarization Challenge 2018](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1749.pdf), Interspeech 2018
-* [Estimation of the Number of Speakers with Variational Bayesian PLDA in the DIHARD Diarization Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1841.pdf), Interspeech 2018
-* [The EURECOM submission to the first DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/2172.pdf), Interspeech 2018
+* [The Third DIHARD Diarization Challenge](https://arxiv.org/pdf/2012.01477.pdf), arXiv 2020
 
 
-### DIHARD II
+### DIHARD II, 2019
 #### Official website
 * [The Second DIHARD Speech Diarization Challenge](https://dihardchallenge.github.io/dihard2/index.html)
 
@@ -310,28 +308,39 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [Speaker Diarization with Deep Speaker Embeddings for DIHARD Challenge II](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2757.pdf), Interspeech 2019
 
 
-### DIHARD III
+### DIHARD I, 2018
 #### Official website
-* [The Third DIHARD Speech Diarization Challenge](https://dihardchallenge.github.io/dihard3/)
+* [The First DIHARD Speech Diarization Challenge](https://dihardchallenge.github.io/dihard1/index.html)
 
 #### Evaluation Plan
-* [Third DIHARD Challenge Evaluation Plan](https://dihardchallenge.github.io/dihard3/docs/third_dihard_eval_plan_v1.2.pdf)
+* [First DIHARD Challenge Evaluation Plan](https://catalog.ldc.upenn.edu/docs/LDC2019S09/first_dihard_eval_plan_v1.3.pdf)
 
 #### Datasets
-* DIHARD III development set (LDC2020E12)
-* DIHARD III evaluation set (LDC2020E13)
-
-#### Baseline systems
-* [DIHARD III baseline systems](https://github.com/dihardchallenge/dihard3_baseline)
+* [First DIHARD Challenge Development - Eight Sources](https://catalog.ldc.upenn.edu/LDC2019S09)
+* [First DIHARD Challenge Development - SEEDLingS](https://catalog.ldc.upenn.edu/LDC2019S10)
+* [First DIHARD Challenge Evaluation - Nine Sources](https://catalog.ldc.upenn.edu/LDC2019S12)
+* [First DIHARD Challenge Evaluation - SEEDLingS](https://catalog.ldc.upenn.edu/LDC2019S13)
 
 #### Results
-* [Task1_CORE, Task1_FULL, Task2_CORE & Task2_FULL](https://sat.nist.gov/dihard3#tab_leaderboard)
-
-#### Workshop
-* [The Third DIHARD Speech Diarization Challenge Workshop](https://dihardchallenge.github.io/dihard3workshop/)
+* [Track1 & Track2](https://dihardchallenge.github.io/dihard1/results.html)
 
 #### Published papers
-* [The Third DIHARD Diarization Challenge](https://arxiv.org/pdf/2012.01477.pdf), arXiv 2020
+* [Diarization is Hard: Some Experiences and Lessons Learned for the JHU Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1893.pdf), Interspeech 2018
+* [Joint Discriminative Embedding Learning, Speech Activity and Overlap Detection for the DIHARD Speaker Diarization Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/2304.pdf), Interspeech 2018
+* [ZCU-NTIS Speaker Diarization System for the DIHARD 2018 Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1252.pdf), Interspeech 2018
+* [Speaker Diarization with Enhancing Speech for the First DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1742.pdf), Interspeech 2018
+* [BUT system for DIHARD Speech Diarization Challenge 2018](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1749.pdf), Interspeech 2018
+* [Estimation of the Number of Speakers with Variational Bayesian PLDA in the DIHARD Diarization Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1841.pdf), Interspeech 2018
+* [The EURECOM submission to the first DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/2172.pdf), Interspeech 2018
+
+
+### MGB-1, 2015
+#### Official website
+* [MGB-1 Challenge](http://www.mgb-challenge.org/MGB-1.html)
+
+#### Published papers
+* [The MGB Challenge: Evaluating Multi-genre Broadcast Media Recognition](http://eprints.whiterose.ac.uk/101807/1/mgb-asru2015.pdf)
+* [Speaker Diarisation and Longitudinal Linking in Multi-genre Broadcast Data](http://mi.eng.cam.ac.uk/~cz277/doc/Conference-ASRU2015-DIARIZ.pdf)
 
 
 ## Leaderboards
