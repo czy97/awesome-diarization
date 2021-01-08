@@ -369,12 +369,18 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [Introduction to Speaker Diarization](https://www1.icsi.berkeley.edu/eecs225d/spr12/slides/diarization.pdf) by [Gerald Friedland](https://www2.eecs.berkeley.edu/Faculty/Homepages/friedland.html)
 
 ### Video tutorials
-* [pyannote audio: neural building blocks for speaker diarization](https://www.youtube.com/watch?v=37R_R82lfwA) by Hervé Bredin
-* [Google's Diarization System: Speaker Diarization with LSTM](https://www.youtube.com/watch?v=pjxGPZQeeO4) by Google
-* [Fully Supervised Speaker Diarization: Say Goodbye to clustering](https://www.youtube.com/watch?v=pGkqwRPzx9U) by Google
-* [Speaker Diarization: Optimal Clustering and Learning Speaker Embeddings](https://www.youtube.com/watch?v=vcyB8xb1-ys) by Microsoft Research
-* [Robust Speaker Diarization for Meetings: the ICSI system](https://www.youtube.com/watch?v=kEcUcfLmIS0) by Microsoft Research
-* [【机器之心&博文视点】入门声纹技术｜第二讲：声纹分割聚类与其他应用](https://www.youtube.com/watch?v=HE9JW8yKYRk) by Quan Wang
+#### Overview
+* [【机器之心&博文视点】入门声纹技术｜第二讲：声纹分割聚类与其他应用](https://www.youtube.com/watch?v=HE9JW8yKYRk) by Quan Wang, 2020.10
+* [深蓝学院 | 基于深度学习的多说话人分割聚类](https://www.shenlanxueyuan.com/open/course/78) by [Chao Zhang](http://mi.eng.cam.ac.uk/~cz277/), 2020.10
+
+#### Conference presentation
+* [pyannote audio: neural building blocks for speaker diarization](https://www.youtube.com/watch?v=37R_R82lfwA) by Hervé Bredin, ICASSP 2020
+* [Fully Supervised Speaker Diarization: Say Goodbye to clustering](https://www.youtube.com/watch?v=pGkqwRPzx9U) by Google, ICASSP 2019
+* [Google's Diarization System: Speaker Diarization with LSTM](https://www.youtube.com/watch?v=pjxGPZQeeO4) by Google, ICASSP 2018
+
+#### Microsoft Research
+* [Robust Speaker Diarization for Meetings: the ICSI system](https://www.youtube.com/watch?v=kEcUcfLmIS0) by Microsoft Research, 2016.09
+* [Speaker Diarization: Optimal Clustering and Learning Speaker Embeddings](https://www.youtube.com/watch?v=vcyB8xb1-ys) by Microsoft Research, 2016.06
 
 
 ## Products
