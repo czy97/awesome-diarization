@@ -300,6 +300,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [Track4](http://dihard.ldc.upenn.edu/competitions/76#results)
 
 #### Published papers
+* [DIHARD II is Still Hard: Experimental Results and Discussions from the DKU-LENOVO Team](https://arxiv.org/pdf/2002.12761.pdf), Odyssey 2020
 * [The Second DIHARD Diarization Challenge: Dataset, task, and baselines](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1268.pdf), Interspeech 2019
 * [LEAP Diarization System for the Second DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2716.pdf), Interspeech 2019
 * [ViVoLAB Speaker Diarization System for the DIHARD 2019 Challenge](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2462.pdf), Interspeech 2019
@@ -347,8 +348,8 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 
 * [StateOfTheArt.ai](https://www.stateoftheart.ai/?area=Sound&task=Speaker%20Diarization)
 
-### DIHARD I
-* [Track1 & Track2](https://dihardchallenge.github.io/dihard1/results.html)
+### DIHARD III
+* [Task1_CORE, Task1_FULL, Task2_CORE & Task2_FULL](https://sat.nist.gov/dihard3#tab_leaderboard)
 
 ### DIHARD II
 * [Track1](http://dihard.ldc.upenn.edu/competitions/73#results)
@@ -356,8 +357,8 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [Track3](http://dihard.ldc.upenn.edu/competitions/75#results)
 * [Track4](http://dihard.ldc.upenn.edu/competitions/76#results)
 
-### DIHARD III
-* [Task1_CORE, Task1_FULL, Task2_CORE & Task2_FULL](https://sat.nist.gov/dihard3#tab_leaderboard)
+### DIHARD I
+* [Track1 & Track2](https://dihardchallenge.github.io/dihard1/results.html)
 
 
 ## Other learning materials
