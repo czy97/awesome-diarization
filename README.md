@@ -302,6 +302,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 #### Published papers
 * [DIHARD II is Still Hard: Experimental Results and Discussions from the DKU-LENOVO Team](https://arxiv.org/pdf/2002.12761.pdf), Odyssey 2020
 * [BUT System for the Second DIHARD Speech Diarization Challenge](http://www.fit.vutbr.cz/research/groups/speech/publi/2020/landini_icassp2020_09054251.pdf), ICASSP 2020
+* [Optimizing Bayesian Hmm Based X-Vector Clustering for the Second Dihard Speech Diarization Challenge](https://www.fit.vutbr.cz/research/groups/speech/publi/2020/diez_icassp2020_09053982.pdf), ICASSP 2020
 * [The Second DIHARD Diarization Challenge: Dataset, task, and baselines](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1268.pdf), Interspeech 2019
 * [LEAP Diarization System for the Second DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2716.pdf), Interspeech 2019
 * [ViVoLAB Speaker Diarization System for the DIHARD 2019 Challenge](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2462.pdf), Interspeech 2019
