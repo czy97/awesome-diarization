@@ -37,12 +37,12 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 ## Publications
 ### Paper list by topic
 #### Survey
-* [Speaker Recognition Based on Deep Learning: An Overview](https://arxiv.org/pdf/2012.00931.pdf), 2020
-* [An Overview of Speaker Diarization: Approaches, Resources and Challenges](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7919005), 2016
-* [A Review on Speaker Diarization Systems and Approaches](https://sci-hub.do/https://doi.org/10.1016/j.specom.2012.05.002), 2012
-* [Speaker Diarization: A Review of Recent Research](https://www1.icsi.berkeley.edu/~fractor/papers/friedland_146.pdf), 2012
-* [Speaker Diarization: Its Developments, Applications, And Challenges](http://eprints.undip.ac.id/36153/1/Hernawan_Sulity.pdf), 2011
-* [An Overview of Automatic Speaker Diarization Systems](https://alize.univ-avignon.fr/doc/publis/06_IEEE-TASP_Tranter.pdf), 2006
+* [Speaker Recognition Based on Deep Learning: An Overview](https://arxiv.org/pdf/2012.00931.pdf), arXiv 2020
+* [An Overview of Speaker Diarization: Approaches, Resources and Challenges](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7919005), O-COCOSDA 2016
+* [A Review on Speaker Diarization Systems and Approaches](https://sci-hub.do/https://doi.org/10.1016/j.specom.2012.05.002), Speech Communication 2012
+* [Speaker Diarization: A Review of Recent Research](https://www1.icsi.berkeley.edu/~fractor/papers/friedland_146.pdf), IEEE TASLP 2012
+* [Speaker Diarization: Its Developments, Applications, And Challenges](http://eprints.undip.ac.id/36153/1/Hernawan_Sulity.pdf), ICISBC 2011
+* [An Overview of Automatic Speaker Diarization Systems](https://alize.univ-avignon.fr/doc/publis/06_IEEE-TASP_Tranter.pdf), IEEE TASLP 2006
 
 #### Supervisied diarization
 * [Supervised online diarization with sample mean loss for multi-domain data](https://arxiv.org/abs/1911.01266), 2019
