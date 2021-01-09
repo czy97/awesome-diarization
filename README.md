@@ -59,7 +59,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [ODESSA at Albayzin Speaker Diarization Challenge 2018](https://www.isca-speech.org/archive/IberSPEECH_2018/pdfs/IberS18_AE-5_Patino.pdf), 2018
 
 #### PhD Thesis
-* [Speaker Diarization: "Who Spoke When"](https://eprints.qut.edu.au/59624/1/David_Wang_Thesis.pdf) by [David I-Chung Wang](https://www.linkedin.com/in/david-wang-97758a65/?originalSubdomain=au)
+* [Speaker Diarization: "Who Spoke When"](https://eprints.qut.edu.au/59624/1/David_Wang_Thesis.pdf) by [David I-Chung Wang](https://www.linkedin.com/in/david-wang-97758a65/?originalSubdomain=au), 2012
 
 
 ### Paper list by year
@@ -376,7 +376,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [Who spoke when! How to Build your own Speaker Diarization Module](https://medium.com/saarthi-ai/who-spoke-when-build-your-own-speaker-diarization-module-from-scratch-e7d725ee279) by Rahul Saxena
 
 ### Talks & Slides
-* [End-to-end Deep Neural Network based Speaker and Language Recognition](https://sites.duke.edu/dkusmiip/files/2019/09/IS19_Survey_SRELRE_MingLi_v2.pdf) by [Ming Li](https://scholars.duke.edu/person/MingLi) in Interspeech 2019
+* [End-to-end Deep Neural Network based Speaker and Language Recognition](https://sites.duke.edu/dkusmiip/files/2019/09/IS19_Survey_SRELRE_MingLi_v2.pdf) by [Ming Li](https://scholars.duke.edu/person/MingLi), Interspeech 2019
 * [Speaker Verification and Diarization](http://www.inf.ed.ac.uk/teaching/courses/asr/2019-20/asr17-speaker.pdf) by [Peter Bell](http://homepages.inf.ed.ac.uk/pbell1/)
 * [Introduction to Speaker Diarization](https://www1.icsi.berkeley.edu/eecs225d/spr12/slides/diarization.pdf) by [Gerald Friedland](https://www2.eecs.berkeley.edu/Faculty/Homepages/friedland.html)
 
