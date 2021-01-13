@@ -49,7 +49,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [End-to-End Neural Speaker Diarization with Self-attention](https://arxiv.org/abs/1909.06247), ASRU 2019
 
 #### Supervisied diarization
-* [Supervised online diarization with sample mean loss for multi-domain data](https://arxiv.org/abs/1911.01266), ICASSP 2020
+* [Supervised Online Diarization with Sample Mean Loss for Multi-Domain Data](https://arxiv.org/abs/1911.01266), ICASSP 2020
 * [Discriminative Neural Clustering for Speaker Diarisation](https://arxiv.org/abs/1910.09703), SLT 2021
 * [Fully Supervised Speaker Diarization](https://arxiv.org/abs/1810.04719), ICASSP 2019
 
