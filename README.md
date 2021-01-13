@@ -44,12 +44,14 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [Speaker Diarization: Its Developments, Applications, And Challenges](http://eprints.undip.ac.id/36153/1/Hernawan_Sulity.pdf), ICISBC 2011
 * [An Overview of Automatic Speaker Diarization Systems](https://alize.univ-avignon.fr/doc/publis/06_IEEE-TASP_Tranter.pdf), IEEE TASLP 2006
 
+#### E2E
+* [End-to-End Neural Speaker Diarization with Permutation-Free Objectives](https://arxiv.org/abs/1909.05952), Interspeech 2019
+* [End-to-End Neural Speaker Diarization with Self-attention](https://arxiv.org/abs/1909.06247), ASRU 2019
+
 #### Supervisied diarization
-* [Supervised online diarization with sample mean loss for multi-domain data](https://arxiv.org/abs/1911.01266), 2019
-* [Discriminative Neural Clustering for Speaker Diarisation](https://arxiv.org/abs/1910.09703), 2019
-* [End-to-End Neural Speaker Diarization with Permutation-Free Objectives](https://arxiv.org/abs/1909.05952), 2019
-* [End-to-End Neural Speaker Diarization with Self-attention](https://arxiv.org/abs/1909.06247), 2019
-* [Fully Supervised Speaker Diarization](https://arxiv.org/abs/1810.04719), 2018
+* [Supervised online diarization with sample mean loss for multi-domain data](https://arxiv.org/abs/1911.01266), ICASSP 2020
+* [Discriminative Neural Clustering for Speaker Diarisation](https://arxiv.org/abs/1910.09703), SLT 2021
+* [Fully Supervised Speaker Diarization](https://arxiv.org/abs/1810.04719), ICASSP 2019
 
 #### Joint diarization and ASR
 * [Joint Speech Recognition and Speaker Diarization via Sequence Transduction](https://arxiv.org/abs/1907.05337), 2019
@@ -89,7 +91,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 
 #### 2017
 * [Speaker Diarization: A Perspective on Challenges and Opportunities from Theory to Practice](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7953098)
-* [Speaker Diarization with LSTM](https://arxiv.org/abs/1710.10468)
+* [Speaker Diarization with LSTM](https://arxiv.org/abs/1710.10468), ICASSP 2018
 * [Speaker diarization using deep neural network embeddings](http://danielpovey.com/files/2017_icassp_diarization_embeddings.pdf)
 * [Speaker diarization using convolutional neural network for statistics accumulation refinement](https://pdfs.semanticscholar.org/35c4/0fde977932d8a3cd24f5a1724c9dbca8b38d.pdf)
 * [pyannote. metrics: a toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems](https://www.isca-speech.org/archive/Interspeech_2017/pdfs/0411.PDF)
