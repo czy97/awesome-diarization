@@ -99,6 +99,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [Speaker Diarization using Deep Recurrent Convolutional Neural Networks for Speaker Embeddings](https://arxiv.org/abs/1708.02840)
 
 #### 2016
+* [On the Use of PLDA i-vector Scoring for Clustering Short Segments](http://www.odyssey2016.org/papers/pdfs_stamped/12.pdf)
 * [An Overview of Speaker Diarization: Approaches, Resources and Challenges](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7919005)
 * [A Speaker Diarization System for Studying Peer-Led Team Learning Groups](https://arxiv.org/pdf/1606.07136.pdf)
 
