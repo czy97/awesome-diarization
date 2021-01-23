@@ -80,7 +80,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [Enhancements for Audio-only Diarization Systems](https://arxiv.org/abs/1909.00082)
 * [LSTM based Similarity Measurement with Spectral Clustering for Speaker Diarization](https://arxiv.org/abs/1907.10393)
 * [Meeting Transcription Using Virtual Microphone Arrays](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/DenmarkTechReport-5ccb8b095c8f3.pdf)
-* [Speaker diarisation using 2D self-attentive combination of embeddings](https://arxiv.org/abs/1902.03190)
+* [Speaker Diarisation Using 2D Self-attentive Combination of Embeddings](https://arxiv.org/abs/1902.03190), ICASSP 2019
 * [Speaker Diarization with Lexical Information](https://arxiv.org/abs/2004.06756)
 
 #### 2018
@@ -92,7 +92,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 #### 2017
 * [Speaker Diarization: A Perspective on Challenges and Opportunities from Theory to Practice](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7953098)
 * [Speaker Diarization with LSTM](https://arxiv.org/abs/1710.10468), ICASSP 2018
-* [Speaker diarization using deep neural network embeddings](http://danielpovey.com/files/2017_icassp_diarization_embeddings.pdf)
+* [Speaker Diarization Using Deep Neural Network Embeddings](http://danielpovey.com/files/2017_icassp_diarization_embeddings.pdf), ICASSP 2017
 * [Speaker diarization using convolutional neural network for statistics accumulation refinement](https://pdfs.semanticscholar.org/35c4/0fde977932d8a3cd24f5a1724c9dbca8b38d.pdf)
 * [pyannote. metrics: a toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems](https://www.isca-speech.org/archive/Interspeech_2017/pdfs/0411.PDF)
 * [Speaker Change Detection in Broadcast TV using Bidirectional Long Short-Term Memory Networks](https://pdfs.semanticscholar.org/edff/b62b32ffcc2b5cc846e26375cb300fac9ecc.pdf)
