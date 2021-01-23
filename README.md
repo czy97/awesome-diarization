@@ -71,6 +71,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [Spot the conversation: speaker diarisation in the wild](https://arxiv.org/abs/2007.01216)
 * [Speaker Diarization with Region Proposal Network](https://arxiv.org/abs/2002.06220)
 * [Target-Speaker Voice Activity Detection: a Novel Approach for Multi-Speaker Diarization in a Dinner Party Scenario](https://arxiv.org/abs/2005.07272)
+* [Speaker Diarization with Session-level Speaker Embedding Refinement Using Graph Neural Networks](https://arxiv.org/pdf/2005.11371.pdf), ICASSP 2020
 
 #### 2019
 * [Overlap-aware diarization: resegmentation using neural end-to-end overlapped speech detection](https://arxiv.org/abs/1910.11646)
