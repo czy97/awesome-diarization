@@ -78,7 +78,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [A study of semi-supervised speaker diarization system using gan mixture model](https://arxiv.org/abs/1910.11416)
 * [Learning deep representations by multilayer bootstrap networks for speaker diarization](https://arxiv.org/abs/1910.10969)
 * [Enhancements for Audio-only Diarization Systems](https://arxiv.org/abs/1909.00082)
-* [LSTM based Similarity Measurement with Spectral Clustering for Speaker Diarization](https://arxiv.org/abs/1907.10393)
+* [LSTM based Similarity Measurement with Spectral Clustering for Speaker Diarization](https://arxiv.org/abs/1907.10393), Interspeech 2019
 * [Meeting Transcription Using Virtual Microphone Arrays](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/DenmarkTechReport-5ccb8b095c8f3.pdf)
 * [Speaker Diarisation Using 2D Self-attentive Combination of Embeddings](https://arxiv.org/abs/1902.03190), ICASSP 2019
 * [Speaker Diarization with Lexical Information](https://arxiv.org/abs/2004.06756)
