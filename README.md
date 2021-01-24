@@ -44,6 +44,10 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [Speaker Diarization: Its Developments, Applications, And Challenges](http://eprints.undip.ac.id/36153/1/Hernawan_Sulity.pdf), ICISBC 2011
 * [An Overview of Automatic Speaker Diarization Systems](https://alize.univ-avignon.fr/doc/publis/06_IEEE-TASP_Tranter.pdf), IEEE TASLP 2006
 
+#### Overlap detection
+* [DOVER-Lap: A Method for Combining Overlap-aware Diarization Outputs](https://arxiv.org/pdf/2011.01997.pdf), SLT 2021
+* [Speaker Diarization with Region Proposal Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9053760), ICASSP 2020
+
 #### E2E
 * [End-to-End Neural Speaker Diarization with Permutation-Free Objectives](https://arxiv.org/abs/1909.05952), Interspeech 2019
 * [End-to-End Neural Speaker Diarization with Self-attention](https://arxiv.org/abs/1909.06247), ASRU 2019
