@@ -49,6 +49,9 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [Speaker Diarization with Region Proposal Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9053760), ICASSP 2020
 
 #### E2E
+* [Neural Speaker Diarization with Speaker-Wise Chain Rule](https://arxiv.org/pdf/2006.01796.pdf), arXiv 2020
+* [End-to-End Speaker Diarization for an Unknown Number of Speakers with Encoder-Decoder Based Attractors](https://www.isca-speech.org/archive/Interspeech_2020/pdfs/1022.pdf), Interspeech 2020
+* [Optimal Mapping Loss: A Faster Loss for End-to-End Speaker Diarization](https://www.isca-speech.org/archive/Odyssey_2020/pdfs/17.pdf), Odyssey 2020
 * [End-to-End Neural Speaker Diarization with Permutation-Free Objectives](https://arxiv.org/abs/1909.05952), Interspeech 2019
 * [End-to-End Neural Speaker Diarization with Self-attention](https://arxiv.org/abs/1909.06247), ASRU 2019
 
