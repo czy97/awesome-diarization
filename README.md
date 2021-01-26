@@ -35,7 +35,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 
 
 ## Publications
-### Paper list by topic
+### Paper List by Topic
 #### Survey
 * [A Review of Speaker Diarization: Recent Advances with Deep Learning](https://arxiv.org/pdf/2101.09624.pdf), arXiv 2021
 * [Speaker Recognition Based on Deep Learning: An Overview](https://arxiv.org/pdf/2012.00931.pdf), arXiv 2020
@@ -72,7 +72,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [Speaker Diarization: "Who Spoke When"](https://eprints.qut.edu.au/59624/1/David_Wang_Thesis.pdf) by [David I-Chung Wang](https://www.linkedin.com/in/david-wang-97758a65/?originalSubdomain=au), 2012
 
 
-### Paper List By Year
+### Paper List by Year
 #### 2020
 * [Online Speaker Diarization with Relation Network](https://arxiv.org/abs/2009.08162)
 * [An End-to-End Speaker Diarization Service for improving Multimedia Content Access](https://nem-initiative.org/wp-content/uploads/2020/07/1-4-an_end_to_end_speaker_diarization_service_for_improving_multimedia_content_access.pdf)
