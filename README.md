@@ -104,6 +104,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [Speaker Diarization Using Deep Neural Network Embeddings](http://danielpovey.com/files/2017_icassp_diarization_embeddings.pdf), ICASSP 2017
 * [Speaker diarization using convolutional neural network for statistics accumulation refinement](https://pdfs.semanticscholar.org/35c4/0fde977932d8a3cd24f5a1724c9dbca8b38d.pdf)
 * [pyannote. metrics: a toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems](https://www.isca-speech.org/archive/Interspeech_2017/pdfs/0411.PDF)
+* [Convolutional Neural Network for Speaker Change Detection in Telephone Speaker Diarization System](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7953097), ICASSP 2017
 * [Speaker Change Detection in Broadcast TV using Bidirectional Long Short-Term Memory Networks](https://pdfs.semanticscholar.org/edff/b62b32ffcc2b5cc846e26375cb300fac9ecc.pdf)
 * [Speaker Diarization using Deep Recurrent Convolutional Neural Networks for Speaker Embeddings](https://arxiv.org/abs/1708.02840)
 
