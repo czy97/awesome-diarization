@@ -1,6 +1,6 @@
 # The Data Format for Diarization Labels
 
-The original defination of the Rich Transcription Time Marked (RTTM) files is in  [NIST RT-09 evaluation plan](https://web.archive.org/web/20100606041157if_/http://www.itl.nist.gov/iad/mig/tests/rt/2009/docs/rt09-meeting-eval-plan-v2.pdf) (which is no available now). The description below is refered from [RTTM](https://github.com/nryant/dscore#rttm).
+The original defination of the Rich Transcription Time Marked (RTTM) files is in  [NIST RT-09 evaluation plan](https://web.archive.org/web/20100606041157if_/http://www.itl.nist.gov/iad/mig/tests/rt/2009/docs/rt09-meeting-eval-plan-v2.pdf). The description below is refered from [RTTM](https://github.com/nryant/dscore#rttm).
 
 ### RTTM
 
